@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes sLideInTop {
+  from {
+    transform: translateY(-500px);
+  }
+
+  to {
+    transform: translateY(46px);
+  }
+}
